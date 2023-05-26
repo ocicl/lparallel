@@ -1,0 +1,9 @@
+* lparallel
+
+Parallelism for Common Lisp
+
+|---------+------------------------------------------|
+| source  | git:https://github.com/lmj/lparallel.git |
+| commit  | 9c11f40                                  |
+| systems | lparallel                                |
+|---------+------------------------------------------|
